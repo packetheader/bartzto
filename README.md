@@ -1,6 +1,6 @@
 # Hi, I'm Tobias 👋🏼
 
-![alt text](profile-banner.png)
+![alt text](https://github.com/bartzto/bartzto/blob/master/profile-banner.png)
 
 ### About me
 I am a trainee IT specialist for system integration

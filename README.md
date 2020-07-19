@@ -1,4 +1,4 @@
-# Hi, I'm Tobias 👋🏼👨🏼‍💻
+# Hi, I'm Tobias 👋🏼
 
 ### About me
 I am a trainee IT specialist for system integration
